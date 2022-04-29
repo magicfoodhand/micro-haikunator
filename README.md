@@ -6,7 +6,7 @@ A word list free version of [tiny-haikunator](https://github.com/magicfoodhand/t
 ## Usage
 
 ```javascript
-import haikunate from 'tiny-haikunator'
+import haikunate from 'micro-haikunator'
 
 haikunate({nouns: ['snowflake'], adjectives: ['rough']) // rough-snowflake-256
 ```
@@ -21,8 +21,8 @@ haikunate({nouns: ['car'], adjectives: ['spicy'], maxValue: 100}) // spicy-car-3
 haikunate({nouns: ['mountain'], adjectives: ['blue'], useChars: true) // blue-mountain-a87
 
 randomNumber(1) // 0
-toChars(37) //
-toChars(37, 'na') //
+toChars(37) // bb
+toChars(37, 'na') // ananna
 ```
 
 ## Development

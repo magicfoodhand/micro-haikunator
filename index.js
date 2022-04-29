@@ -1,4 +1,4 @@
-const CHARS = '0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+const CHARS = 'abcdefghijklmnopqrstuvwxyz0123456789'
 
 export const randomNumber = (max) => Math.floor(Math.random() * max)
 

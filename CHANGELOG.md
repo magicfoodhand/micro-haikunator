@@ -6,5 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2022-04-28
+remove capital letters from toChars function
+
 ## [1.0.0] - 2022-04-28
 Initial Release: include haikunate, randomNumber. Add useChars and export toChars function

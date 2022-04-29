@@ -12,7 +12,7 @@ describe('micro-haikunate', function () {
 
   describe('#toChars()', function () {
     it('should convert a number to characters', function () {
-      expect(toChars(37)).to.equal('B')
+      expect(toChars(37)).to.equal('bb')
     });
 
     it('should convert a number to characters - custom', function () {
