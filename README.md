@@ -27,6 +27,3 @@ toChars(37, 'na') // ananna
 
 ## Development
 To install test dependencies use `npm i`, test with `npm run test`
-
-## Motivation
-I needed a small heroku name generator, similar npm packages had an unpacked size of over 25KB! So I found a ruby gem, mainly for the word list, and wrote it up in ES6. That became the [tiny-haikunator](https://github.com/magicfoodhand/tiny-haikunator/) library, this one was created when I knew I'd always pass in a custom word list and didn't want to waste space.
