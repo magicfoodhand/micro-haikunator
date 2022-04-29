@@ -6,14 +6,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [1.0.3] - 2022-03-13
-Make props optional for haikanute method
-
-## [1.0.2] - 2022-03-13
-Add Chagelog, types, and move tests to index.test.js
-
-## [1.0.1] - 2022-03-13
-Add Github Repo
-
-## [1.0.0] - 2022-03-13
-Initial Release: include haikunate, randomNumber, defaultAdjectives, and defaultNouns
+## [1.0.0] - 2022-04-28
+Initial Release: include haikunate, randomNumber. Add useChars and export toChars function

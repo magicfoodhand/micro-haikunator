@@ -1,14 +1,14 @@
 {
-  "name": "tiny-haikunator",
-  "version": "1.0.3",
-  "description": "A small heroku like random name generator insprired by the ruby gem haikunator.",
-  "homepage": "https://github.com/magicfoodhand/tiny-haikunator",
+  "name": "micro-haikunator",
+  "version": "1.0.0",
+  "description": "A small heroku like random name generator insprired by the ruby gem haikunator, with no word list.",
+  "homepage": "https://github.com/magicfoodhand/micro-haikunator",
   "repository": {
     "type": "git",
-    "url": "https://github.com/magicfoodhand/tiny-haikunator.git"
+    "url": "https://github.com/magicfoodhand/micro-haikunator.git"
   },
   "bugs": {
-    "url": "https://github.com/magicfoodhand/tiny-haikunator/issues"
+    "url": "https://github.com/magicfoodhand/micro-haikunator/issues"
   },
   "author": "magicfoodhand",
   "license": "MIT",
