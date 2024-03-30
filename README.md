@@ -1,7 +1,9 @@
 [![Node.js Package](https://github.com/magicfoodhand/micro-haikunator/actions/workflows/npm-test.yml/badge.svg)](https://github.com/magicfoodhand/micro-haikunator/actions/workflows/npm-test.yml)
 
+NOTE: This project is not dead, it's done.
+
 # Micro Haikunator
-A word list free version of [tiny-haikunator](https://github.com/magicfoodhand/tiny-haikunator/)
+A word list free version of [tiny-haikunator](https://github.com/magicfoodhand/tiny-haikunator/).
 
 ## Usage
 
