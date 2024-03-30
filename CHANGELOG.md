@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2024-03-30
+Add JSDoc comments
+
 ## [1.0.7] - 2022-04-29
 Add .github to .npmignore
 
